@@ -1,3 +1,3 @@
 # Hello-World
 
-just 4 tisting
+just 4 testing
